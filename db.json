@@ -1,0 +1,26 @@
+{
+  "users": [
+    {
+      "name": "aryan sharma",
+      "email": "aryansharma@123",
+      "age": "25",
+      "id": "z_1vNX9LErI"
+    },
+    {
+      "name": "aryan ji",
+      "email": "aryanji@123",
+      "age": "25",
+      "id": "vLGntAwhZ_o"
+    },
+    {
+      "name": "asas",
+      "email": "axcv",
+      "age": "223",
+      "id": "GBbIaowKvIs"
+    },
+    {
+      "id": "aY9OEIekoNY"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
